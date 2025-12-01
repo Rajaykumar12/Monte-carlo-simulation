@@ -212,7 +212,7 @@ Rf = Risk-free Rate
 - [ ] **Transaction Costs**: Real-world implementation costs
 - [ ] **Rebalancing Logic**: Dynamic portfolio adjustment
 - [ ] **Performance Attribution**: Factor-based analysis
-- [ ] **Stress Testing**: Scenario-based risk analysissfsfcs
+- [ ] **Stress Testing**: Scenario-based risk analysis
 
 ## 🤝 Contributing
 
@@ -268,5 +268,4 @@ We welcome contributions from the quantitative finance community:
 
 ![Portfolio Performance](https://via.placeholder.com/800x400/1f77b4/ffffff?text=Portfolio+Performance+Dashboard)
 
-*Real-time performance tracking with comprehensive risk analytics*#   M o n t e - c a r l o - s i m u l a t i o n  
- 
+*Real-time performance tracking with comprehensive risk analytics*
