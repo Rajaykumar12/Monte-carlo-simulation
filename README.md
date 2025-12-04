@@ -124,17 +124,6 @@ jupyter notebook monte_carlo.ipynb
 jupyter notebook monte_carlo2.ipynb
 ```
 
-## 📁 Repository Structure
-
-```
-monte-carlo-portfolio-optimization/
-├── 📊 monte_carlo.ipynb           # Single asset Monte Carlo simulation
-├── 🎪 monte_carlo2.ipynb          # Multi-asset portfolio optimization  
-├── 📋 README.md                   # Project documentation
-├── 📦 requirements.txt            # Python dependencies
-└── 📜 LICENSE                     # MIT license
-```
-
 ## 🧠 Key Financial Insights
 
 ### 🎯 Diversification Alpha
