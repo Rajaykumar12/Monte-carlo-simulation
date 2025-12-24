@@ -202,9 +202,3 @@ Rf = Risk-free Rate
 - [ ] **Rebalancing Logic**: Dynamic portfolio adjustment
 - [ ] **Performance Attribution**: Factor-based analysis
 - [ ] **Stress Testing**: Scenario-based risk analysis
-
-### 📊 Performance Metrics Dashboard
-
-![Portfolio Performance](https://via.placeholder.com/800x400/1f77b4/ffffff?text=Portfolio+Performance+Dashboard)
-
-*Real-time performance tracking with comprehensive risk analytics*
